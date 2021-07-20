@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512430296 source:c:\users\walid jennani\desktop\cours de développeur\exercice language c\si_05\si05_ex5===2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

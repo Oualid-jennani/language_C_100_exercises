@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1510072104 source:c:\users\mohammed\desktop\ex10s2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511030525 source:c:\users\walid jennani\desktop\doros\exercice language c\si-02\ex10s2\main.c
+	<stdio.h>
+	<stdlib.h>
+

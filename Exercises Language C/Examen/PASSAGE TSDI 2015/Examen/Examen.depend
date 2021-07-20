@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1515755479 source:c:\users\walid jennani\contacts\desktop\examen\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1516095101 source:c:\users\walid jennani\contacts\desktop\cours de développeur\language c\examen\passage tsdi 2015\examen\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

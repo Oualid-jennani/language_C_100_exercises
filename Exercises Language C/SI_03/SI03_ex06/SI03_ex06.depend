@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513631237 source:c:\users\walid jennani\contacts\desktop\cours de développeur\language c\exercice language c\si_03\si03_ex06\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

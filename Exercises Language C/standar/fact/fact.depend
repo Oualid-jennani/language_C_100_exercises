@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1509646069 source:c:\users\walid jennani\desktop\fact\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1509646069 source:c:\users\walid jennani\desktop\doros\codeblocks\fact\main.c
+	<stdio.h>
+	<stdlib.h>
+

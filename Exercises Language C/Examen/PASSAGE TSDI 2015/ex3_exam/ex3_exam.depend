@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1515518925 source:c:\users\walid jennani\desktop\ex3_exam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1515748341 source:c:\users\walid jennani\contacts\desktop\cours de développeur\language c\examen\ex3_exam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1515748536 source:c:\users\walid\desktop\cours de développeur\language c\examen\passage tsdi 2015\ex3_exam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

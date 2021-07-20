@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510960781 source:c:\users\walid jennani\desktop\si05_ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1511829762 source:c:\users\walid jennani\desktop\cours de développeur\exercice language c\si_05\si05_ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

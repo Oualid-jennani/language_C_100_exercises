@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510525820 source:c:\users\walid jennani\desktop\cours de développeur\exercice language c\standar\un\main.c
+	<stdio.h>
+	<stdlib.h>
+

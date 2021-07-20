@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1513178506 source:c:\users\walid jennani\desktop\exercice fonction\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1513221444 source:c:\users\walid jennani\desktop\cours de développeur\exercice language c\standar\exercice fonction\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

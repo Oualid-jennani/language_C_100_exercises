@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512491666 source:c:\users\walid jennani\desktop\ex6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1512492475 source:c:\users\walid jennani\desktop\cours de développeur\exercice language c\si_06\ex6\main.c
+	<stdio.h>
+	<stdlib.h>
+

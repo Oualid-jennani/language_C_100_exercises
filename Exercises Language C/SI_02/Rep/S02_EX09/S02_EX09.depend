@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1510062248 source:c:\users\walid jennani\desktop\s02_ex09\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1510064239 source:c:\users\walid jennani\desktop\doros\pdf\language c\s02_ex09\main.c
+	<stdio.h>
+	<stdlib.h>
+
